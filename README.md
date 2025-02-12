@@ -47,5 +47,5 @@ python -m ipykernel install --user --name={가상환경이름} --display-name "{
 | 챕터 <br>(chapter) | 파일이름 <br>(file name) | 진행상황 (progress) |
 |:-------|:---|:---:|
 |`01. perceptron`| `subject/01.perceptron.ipynb`| **O** |
-|`02. neural network` | |
-|`03. train of neural network` | |
+|`02. neural network` | `subject/02.neuralnetwork.ipynb` | **O** |
+|`03. train of neural network` | | |
