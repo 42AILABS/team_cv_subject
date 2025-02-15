@@ -40,7 +40,7 @@ def TEST_OR(OR):
     print(f'\nOR GATE TOTAL SCORE : {count} / 4')
     print("="*30)
 
-def TEST_OR(XOR):
+def TEST_XOR(XOR):
     count = 4
 
     if (XOR(0, 0) != 0):
