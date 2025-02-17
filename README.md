@@ -48,4 +48,4 @@ python -m ipykernel install --user --name={가상환경이름} --display-name "{
 |:-------|:---|:---:|
 |`01. perceptron`| `subject/01.perceptron.ipynb`| **O** |
 |`02. neural network` | `subject/02.neuralnetwork.ipynb` | **O** |
-|`03. train of neural network` | | |
+|`03. train of neural network` | `subject/03.train_neuralnetwork.ipynb` | **ING** |
